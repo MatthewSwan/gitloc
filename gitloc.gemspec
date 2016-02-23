@@ -8,5 +8,5 @@ Gem::Specification.new do |s|
   s.authors     = ["Matthew Swan"]
   s.email       = 'swanm86@gmail.com'
   s.files       = Dir["**/*"].select { |f| File.file? f }
-  s.homepage    = 'https://github.com/MatthewSwan/'
+  s.homepage    = 'https://github.com/MatthewSwan/gitloc'
 end
